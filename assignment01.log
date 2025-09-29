@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.16)  21 AUG 2025 19:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.16)  28 SEP 2025 04:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/miamiao/Desktop/Assignment 01/assignment01.tex"
-(/Users/miamiao/Desktop/Assignment 01/assignment01.tex
+**/Users/miamiao/Desktop/aaa/A-Fraud-Detection-Solution-for-Extremely-Imbalanced-Financial-Data/assignment01.tex
+(/Users/miamiao/Desktop/aaa/A-Fraud-Detection-Solution-for-Extremely-Imbalanced-Financial-Data/assignment01.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/acmart/acmart.cls
@@ -598,151 +598,157 @@ File: T1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/Lin
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 3588.
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count321
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count322
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 27.
-Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 27.
-\c@theorem=\count321
+Package hyperref Info: Option `colorlinks' set `true' on input line 36.
+Package hyperref Info: Option `colorlinks' set `true' on input line 42.
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 42.
+\c@theorem=\count323
  (/usr/local/texlive/2025/texmf-dist/tex/latex/preprint/balance.sty
 Package: balance 1999/02/23 4.3 (PWD)
 \oldvsize=\dimen194
 ) Include comment 'screenonly' Excluding comment 'printonly' Include comment 'anonsuppress' (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count322
+\l__color_backend_stack_int=\count324
 \l__pdf_internal_box=\box62
-)
-No file assignment01.aux.
+) (./assignment01.aux)
 \openout1 = `assignment01.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 27.
-LaTeX Font Info:    Trying to load font information for OML+nxlmi on input line 27.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/newtx/omlnxlmi.fd
+LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 42.
+LaTeX Font Info:    Trying to load font information for OML+nxlmi on input line 42.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 27.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 27.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 42.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 42.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 27.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 27.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 42.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 42.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 27.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 27.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 42.
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 42.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    ... okay on input line 42.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 27.
-LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF on input line 27.
+(Font)              scaled to size 8.0pt on input line 42.
+LaTeX Font Info:    Trying to load font information for OT1+LinuxLibertineT-TLF on input line 42.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/OT1LinuxLibertineT-TLF.fd
 File: OT1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for OT1/LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 42.
 <<ot1.cmap>>
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 27.
+(Font)              scaled to size 6.0pt on input line 42.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 27.
+(Font)              scaled to size 5.5pt on input line 42.
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 42.
 <<oml.cmap>>
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 6.0pt on input line 27.
+(Font)              scaled to size 6.0pt on input line 42.
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 5.5pt on input line 27.
+(Font)              scaled to size 5.5pt on input line 42.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 42.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.0pt on input line 27.
+(Font)              scaled to size 6.0pt on input line 42.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 5.5pt on input line 27.
+(Font)              scaled to size 5.5pt on input line 42.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 42.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.0pt on input line 27.
+(Font)              scaled to size 6.0pt on input line 42.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 5.5pt on input line 27.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
+(Font)              scaled to size 5.5pt on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 27.
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 42.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 42.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.0pt on input line 27.
+(Font)              scaled to size 6.0pt on input line 42.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 5.5pt on input line 27.
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 27.
+(Font)              scaled to size 5.5pt on input line 42.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 42.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 42.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.0pt on input line 27.
+(Font)              scaled to size 6.0pt on input line 42.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 5.5pt on input line 27.
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 27.
+(Font)              scaled to size 5.5pt on input line 42.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 42.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 42.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.0pt on input line 27.
+(Font)              scaled to size 6.0pt on input line 42.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 5.5pt on input line 27.
+(Font)              scaled to size 5.5pt on input line 42.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 42.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.0pt on input line 27.
+(Font)              scaled to size 6.0pt on input line 42.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 5.5pt on input line 27.
-LaTeX Info: Command `\dddot' is already robust on input line 27.
-LaTeX Info: Command `\ddddot' is already robust on input line 27.
-LaTeX Info: Redefining \microtypecontext on input line 27.
-Package microtype Info: Applying patch `item' on input line 27.
-Package microtype Info: Applying patch `toc' on input line 27.
-Package microtype Info: Applying patch `eqnum' on input line 27.
-Package microtype Info: Applying patch `footnote' on input line 27.
-Package microtype Info: Applying patch `verbatim' on input line 27.
-LaTeX Info: Redefining \microtypesetup on input line 27.
+(Font)              scaled to size 5.5pt on input line 42.
+LaTeX Info: Command `\dddot' is already robust on input line 42.
+LaTeX Info: Command `\ddddot' is already robust on input line 42.
+LaTeX Info: Redefining \microtypecontext on input line 42.
+Package microtype Info: Applying patch `item' on input line 42.
+Package microtype Info: Applying patch `toc' on input line 42.
+Package microtype Info: Applying patch `eqnum' on input line 42.
+Package microtype Info: Applying patch `footnote' on input line 42.
+Package microtype Info: Applying patch `verbatim' on input line 42.
+LaTeX Info: Redefining \microtypesetup on input line 42.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 27.
+LaTeX Info: Redefining \showhyphens on input line 42.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -750,22 +756,23 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package hyperref Info: Link coloring ON on input line 27.
+Package hyperref Info: Link coloring ON on input line 42.
+ (./assignment01.out) (./assignment01.out)
 \@outlinefile=\write4
 \openout4 = `assignment01.out'.
 
  (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count323
+\scratchcounter=\count325
 \scratchdimen=\dimen195
 \scratchbox=\box63
-\nofMPsegments=\count324
-\nofMParguments=\count325
+\nofMPsegments=\count326
+\nofMParguments=\count327
 \everyMPshowfont=\toks41
-\MPscratchCnt=\count326
+\MPscratchCnt=\count328
 \MPscratchDim=\dimen196
-\MPnumerator=\count327
-\makeMPintoPDFobject=\count328
+\MPnumerator=\count329
+\makeMPintoPDFobject=\count330
 \everyMPtoPDFconversion=\toks42
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -807,8 +814,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count329
-\c@mv@boldtabular=\count330
+\c@mv@tabular=\count331
+\c@mv@boldtabular=\count332
 (/usr/local/texlive/2025/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 )
@@ -816,838 +823,1377 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 20.74pt on input line 83.
+(Font)              scaled to size 20.74pt on input line 100.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 20.74pt on input line 83.
+(Font)              scaled to size 20.74pt on input line 100.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 83.
-LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 83.
+(Font)              scaled to size 12.0pt on input line 100.
+LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line 100.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
 File: T1LinuxBiolinumT-TLF.fd 2017/03/20 (autoinst) Font definitions for T1/LinuxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 83.
+(Font)              scaled to size 10.0pt on input line 100.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 83.
+(Font)              scaled to size 10.0pt on input line 100.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 83.
+(Font)              scaled to size 7.3pt on input line 100.
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 10.0pt on input line 83.
+(Font)              scaled to size 10.0pt on input line 100.
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 7.3pt on input line 83.
+(Font)              scaled to size 7.3pt on input line 100.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 10.0pt on input line 83.
+(Font)              scaled to size 10.0pt on input line 100.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 7.3pt on input line 83.
+(Font)              scaled to size 7.3pt on input line 100.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 10.0pt on input line 83.
+(Font)              scaled to size 10.0pt on input line 100.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 7.3pt on input line 83.
+(Font)              scaled to size 7.3pt on input line 100.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 10.0pt on input line 83.
+(Font)              scaled to size 10.0pt on input line 100.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 7.3pt on input line 83.
+(Font)              scaled to size 7.3pt on input line 100.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 10.0pt on input line 83.
+(Font)              scaled to size 10.0pt on input line 100.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 7.3pt on input line 83.
+(Font)              scaled to size 7.3pt on input line 100.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 10.0pt on input line 83.
+(Font)              scaled to size 10.0pt on input line 100.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 7.3pt on input line 83.
+(Font)              scaled to size 7.3pt on input line 100.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 10.0pt on input line 83.
+(Font)              scaled to size 10.0pt on input line 100.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 7.3pt on input line 83.
+(Font)              scaled to size 7.3pt on input line 100.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 83.
-LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF on input line 83.
+(Font)              scaled to size 8.0pt on input line 100.
+LaTeX Font Info:    Trying to load font information for TS1+LinuxLibertineT-TLF on input line 100.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/libertine/TS1LinuxLibertineT-TLF.fd
 File: TS1LinuxLibertineT-TLF.fd 2017/03/20 (autoinst) Font definitions for TS1/LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 83.
+(Font)              scaled to size 8.0pt on input line 100.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 83.
+(Font)              scaled to size 8.0pt on input line 100.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 83.
+(Font)              scaled to size 10.0pt on input line 100.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 83.
-
-
-Package natbib Warning: Citation `shearer2000crisp' on page 1 undefined on input line 83.
-
-
-/Users/miamiao/Desktop/Assignment 01/assignment01.tex:83: LaTeX Error: Unicode character ≥ (U+2265)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.83 \maketitle
-               
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-/Users/miamiao/Desktop/Assignment 01/assignment01.tex:83: LaTeX Error: Unicode character ≥ (U+2265)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.83 \maketitle
-               
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-/Users/miamiao/Desktop/Assignment 01/assignment01.tex:83: LaTeX Error: Unicode character ≥ (U+2265)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.83 \maketitle
-               
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
+(Font)              scaled to size 12.0pt on input line 100.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/it' will be
-(Font)              scaled to size 10.0pt on input line 83.
+(Font)              scaled to size 10.0pt on input line 100.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 83.
+(Font)              scaled to size 9.0pt on input line 100.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 83.
+(Font)              scaled to size 9.0pt on input line 100.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 83.
-
-LaTeX Warning: Reference `TotPages' on page 1 undefined on input line 83.
-
+(Font)              scaled to size 9.0pt on input line 100.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 83.
+(Font)              scaled to size 9.0pt on input line 100.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 83.
+(Font)              scaled to size 9.0pt on input line 100.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.6pt on input line 83.
+(Font)              scaled to size 6.6pt on input line 100.
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 9.0pt on input line 83.
+(Font)              scaled to size 9.0pt on input line 100.
 LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
-(Font)              scaled to size 6.6pt on input line 83.
+(Font)              scaled to size 6.6pt on input line 100.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 9.0pt on input line 83.
+(Font)              scaled to size 9.0pt on input line 100.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.6pt on input line 83.
+(Font)              scaled to size 6.6pt on input line 100.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 9.0pt on input line 83.
+(Font)              scaled to size 9.0pt on input line 100.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.6pt on input line 83.
+(Font)              scaled to size 6.6pt on input line 100.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 9.0pt on input line 83.
+(Font)              scaled to size 9.0pt on input line 100.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.6pt on input line 83.
+(Font)              scaled to size 6.6pt on input line 100.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 9.0pt on input line 83.
+(Font)              scaled to size 9.0pt on input line 100.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.6pt on input line 83.
+(Font)              scaled to size 6.6pt on input line 100.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 9.0pt on input line 83.
+(Font)              scaled to size 9.0pt on input line 100.
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.6pt on input line 83.
+(Font)              scaled to size 6.6pt on input line 100.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 9.0pt on input line 83.
+(Font)              scaled to size 9.0pt on input line 100.
 LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.6pt on input line 83.
+(Font)              scaled to size 6.6pt on input line 100.
 
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 113--114
-[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Identifying high-risk pat-terns in TRANS-FER and
+Underfull \hbox (badness 1776) in paragraph at lines 112--113
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Reduce Fi-nan-cial Losses: \T1/LinuxLibertineT-TLF/m/n/10 (+20) Re-duce fraud-related
  []
 
 
-Overfull \hbox (7.06644pt too wide) in paragraph at lines 123--124
- \T1/LinuxLibertineT-TLF/b/n/10 (-20) 1.2.1 Re-source In-ven-tory.[] \T1/LinuxLibertineT-TLF/m/n/10 (-20) As an in-di-vid-ual stu-dent project,
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 128--129
+\T1/LinuxLibertineT-TLF/b/n/10 (+20) 0.9756)\T1/LinuxLibertineT-TLF/m/n/10 (+20) ; Pre-ci-sion $\LMS/ntxsy/m/n/10 ^^U$ \T1/LinuxLibertineT-TLF/m/n/10 (+20) 70% / Re-call $\LMS/ntxsy/m/n/10 ^^U$ \T1/LinuxLibertineT-TLF/m/n/10 (+20) 85% \T1/LinuxLibertineT-TLF/b/n/10 (+20) (Not
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 137--138
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Identifying high-risk pat-terns in TRANS-FER and
  []
 
 
 
 [1.1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_nh77jq.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}
 
-{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}]
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 148.
-
-<table1.jpg, id=29, 643.40375pt x 825.0825pt>
-File: table1.jpg Graphic file (type jpg)
-<use table1.jpg>
-Package pdftex.def Info: table1.jpg  used on input line 151.
-(pdftex.def)             Requested size: 216.84901pt x 278.08192pt.
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 152.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 157.
-
-
-Package natbib Warning: Citation `fawcett2006roc' on page 2 undefined on input line 169.
-
-
-Package natbib Warning: Citation `delong1988comparing' on page 2 undefined on input line 176.
-
-
-Overfull \hbox (0.27678pt too wide) in paragraph at lines 177--178
-[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Relative Eval-u-a-tion (Per-for-mance Rank-ing): \T1/LinuxLibertineT-TLF/m/n/10 (-20) Once
+{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_ki75ao.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_naooyc.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_oexx6f.enc}]
+Underfull \hbox (badness 1466) in paragraph at lines 148--149
+ \T1/LinuxLibertineT-TLF/b/n/10 (+20) 1.2.1 Re-source In-ven-tory.[] \T1/LinuxLibertineT-TLF/m/n/10 (+20) As an in-di-vid-ual stu-dent
  []
 
 
-
-[2.2 <./table1.jpg>]
-Overfull \hbox (3.58473pt too wide) in paragraph at lines 184--185
- \T1/LinuxLibertineT-TLF/b/n/10 (-20) 1.3.3  Model In-ter-pre-ta-tion and De-ploy-ment.[] \T1/LinuxLibertineT-TLF/m/n/10 (-20) The scope
+Underfull \hbox (badness 1776) in paragraph at lines 148--149
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Mat-plotlib, Seaborn, scikit-learn, etc.), and 1 week of
  []
 
 
-Overfull \hbox (3.87956pt too wide) in paragraph at lines 184--185
-\T1/LinuxLibertineT-TLF/m/n/10 (-20) con-struc-tion, and AUC-based per-for-mance eval-u-a-tion. Deeper
+Underfull \hbox (badness 1292) in paragraph at lines 148--149
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) op-er-a-tional ex-pe-ri-ence with Python data anal-y-sis and
+ []
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 173.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.5pt on input line 175.
+LaTeX Font Info:    Font shape `OML/nxlmi/m/it' will be
+(Font)              scaled to size 6.5pt on input line 175.
+LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
+(Font)              scaled to size 6.5pt on input line 175.
+LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
+(Font)              scaled to size 6.5pt on input line 175.
+LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
+(Font)              scaled to size 6.5pt on input line 175.
+LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
+(Font)              scaled to size 6.5pt on input line 175.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.5pt on input line 175.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.5pt on input line 175.
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 6.0pt on input line 177.
+
+Overfull \hbox (2.18198pt too wide) in paragraph at lines 181--181
+[]\T1/LinuxLibertineT-TLF/m/n/6 (-20) Performance| 
  []
 
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 188.
-
-<table2.jpg, id=43, 637.38126pt x 632.3625pt>
-File: table2.jpg Graphic file (type jpg)
-<use table2.jpg>
-Package pdftex.def Info: table2.jpg  used on input line 191.
-(pdftex.def)             Requested size: 216.84901pt x 215.1355pt.
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 192.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 197.
-
-
-Package natbib Warning: Citation `paysim2024' on page 3 undefined on input line 204.
-
-
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 215.
-
-<2.1.png, id=44, 783.92876pt x 805.0075pt>
-File: 2.1.png Graphic file (type png)
-<use 2.1.png>
-Package pdftex.def Info: 2.1.png  used on input line 218.
-(pdftex.def)             Requested size: 216.84901pt x 222.67365pt.
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 219.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 224.
-
-
-
-[3.3 <./table2.jpg> <./2.1.png>]
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 259.
-
-<2.2.1.png, id=57, 743.77875pt x 696.6025pt>
-File: 2.2.1.png Graphic file (type png)
-<use 2.2.1.png>
-Package pdftex.def Info: 2.2.1.png  used on input line 262.
-(pdftex.def)             Requested size: 216.84901pt x 203.09373pt.
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 263.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 268.
-
-
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 274.
-
-<table3.jpg, id=58, 655.44875pt x 858.20625pt>
-File: table3.jpg Graphic file (type jpg)
-<use table3.jpg>
-Package pdftex.def Info: table3.jpg  used on input line 277.
-(pdftex.def)             Requested size: 216.84901pt x 283.92917pt.
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 278.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 283.
-
-<2.2.2.png, id=59, 968.61874pt x 514.92375pt>
-File: 2.2.2.png Graphic file (type png)
-<use 2.2.2.png>
-Package pdftex.def Info: 2.2.2.png  used on input line 286.
-(pdftex.def)             Requested size: 216.84901pt x 115.27141pt.
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 287.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 292.
-
-
-
-[4.4 <./2.2.1.png> <./table3.jpg> <./2.2.2.png>]
-
-Package natbib Warning: Citation `ibm_modeler_docs' on page 5 undefined on input line 316.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 322.
-
-<2.3.1.png, id=68, 1053.9375pt x 564.1075pt>
-File: 2.3.1.png Graphic file (type png)
-<use 2.3.1.png>
-Package pdftex.def Info: 2.3.1.png  used on input line 325.
-(pdftex.def)             Requested size: 216.84901pt x 116.06454pt.
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 326.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 331.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 337.
-
-<2.3.2.png, id=69, 1036.87375pt x 493.845pt>
-File: 2.3.2.png Graphic file (type png)
-<use 2.3.2.png>
-Package pdftex.def Info: 2.3.2.png  used on input line 340.
-(pdftex.def)             Requested size: 216.84901pt x 103.28098pt.
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 341.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 346.
-
-
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 368.
-
-<2.4.1.png, id=70, 1571.8725pt x 758.835pt>
-File: 2.4.1.png Graphic file (type png)
-<use 2.4.1.png>
-Package pdftex.def Info: 2.4.1.png  used on input line 371.
-(pdftex.def)             Requested size: 216.84901pt x 104.6846pt.
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 372.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 377.
-
-
-
-[5.5 <./2.3.1.png> <./2.3.2.png> <./2.4.1.png>]
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 388.
-
-<table4.jpg, id=82, 532.99126pt x 149.55875pt>
-File: table4.jpg Graphic file (type jpg)
-<use table4.jpg>
-Package pdftex.def Info: table4.jpg  used on input line 391.
-(pdftex.def)             Requested size: 216.84901pt x 60.84709pt.
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 392.
-
-
-Overfull \hbox (0.40402pt too wide) in paragraph at lines 391--393
- [] 
+Underfull \hbox (badness 2020) in paragraph at lines 183--183
+[]\T1/LinuxLibertineT-TLF/m/n/6 (+20) 2-week time-frame in-
  []
 
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 397.
-
-
-Overfull \hbox (1.0505pt too wide) in paragraph at lines 419--420
- \T1/LinuxLibertineT-TLF/b/n/10 (-20) 2.4.3 Sum-mary of Data Qual-ity.[] \T1/LinuxLibertineT-TLF/m/n/10 (-20) In sum-mary, the PaySim
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+[]\T1/LinuxLibertineT-TLF/m/n/6 (+20) Extreme im-bal-ance
  []
 
 
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 436.
-
-<3.1.1.png, id=83, 952.55875pt x 525.965pt>
-File: 3.1.1.png Graphic file (type png)
-<use 3.1.1.png>
-Package pdftex.def Info: 3.1.1.png  used on input line 439.
-(pdftex.def)             Requested size: 216.84901pt x 119.73346pt.
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 440.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 445.
-
-
-Overfull \hbox (10.85887pt too wide) in paragraph at lines 446--447
-[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) This op-er-a-tion re-duced the dataset from the orig-i-nal 6,362,620
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+\T1/LinuxLibertineT-TLF/m/n/6 (+20) (fraud only 0.13%)
  []
 
 
-
-[6.6 <./table4.jpg> <./3.1.1.png>]
-
-Package natbib Warning: Citation `he2009learning' on page 7 undefined on input line 454.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 459.
-
-<3.1.2.png, id=96, 733.74126pt x 627.34375pt>
-File: 3.1.2.png Graphic file (type png)
-<use 3.1.2.png>
-Package pdftex.def Info: 3.1.2.png  used on input line 462.
-(pdftex.def)             Requested size: 216.84901pt x 185.39983pt.
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 463.
+Overfull \hbox (22.45064pt too wide) in paragraph at lines 175--190
+ [][] 
+ []
 
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 468.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+
+
+
+
+[2.2]
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 473.
+(Font)              scaled to size 10.0pt on input line 232.
 
-
-
-Overfull \hbox (16.85797pt too wide) in paragraph at lines 489--490
-[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Issue Iden-ti-fied: \T1/LinuxLibertineT-TLF/m/n/10 (-20) Fields such as name-Orig and nameDest
+Underfull \hbox (badness 2932) in paragraph at lines 232--233
+ \T1/LinuxLibertineT-TLF/b/n/10 (+20) 1.3.3 Model In-ter-pre-ta-tion and De-ploy-ment.[] \T1/LinuxLibertineT-TLF/m/n/10 (+20) The
  []
 
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 508.
-
-<3.3.1.png, id=97, 650.43pt x 422.57875pt>
-File: 3.3.1.png Graphic file (type png)
-<use 3.3.1.png>
-Package pdftex.def Info: 3.3.1.png  used on input line 511.
-(pdftex.def)             Requested size: 216.84901pt x 140.88287pt.
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 512.
+Underfull \hbox (badness 10000) in paragraph at lines 250--250
+[]$\LMS/ntxsy/m/n/6.5 ^^O$ \T1/LinuxLibertineT-TLF/m/n/6 (+20) Re-view feed-back, clar-ify ob-jec-
+ []
 
 
-Underfull \vbox (badness 1052) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 256--256
+\LMS/ntxsy/m/n/6.5 ^^O$ \T1/LinuxLibertineT-TLF/m/n/6 (+20) Im-ple-ment un-der-sam-pling &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--258
+[]\T1/LinuxLibertineT-TLF/m/n/6 (+20) Contingency only (emer-gency use
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--262
+[]\T1/LinuxLibertineT-TLF/m/n/6 (+20) Model Op-ti-miza-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--262
+\LMS/ntxsy/m/n/6.5 ^^O$ \T1/LinuxLibertineT-TLF/m/n/6 (+20) Com-pare al-go-rithms (LR vs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
+[]\T1/LinuxLibertineT-TLF/m/n/6 (+20) Model Op-ti-miza-tion
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 266--266
+[]$\LMS/ntxsy/m/n/6.5 ^^O$ \T1/LinuxLibertineT-TLF/m/n/6 (+20) Com-plete fig-ures & ta-bles, re-sults
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
+\LMS/ntxsy/m/n/6.5 ^^O$ \T1/LinuxLibertineT-TLF/m/n/6 (+20) Full text re-vi-sion: ab-
+ []
+
+
+Overfull \hbox (12.45064pt too wide) in paragraph at lines 246--271
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[7.7 <./3.1.2.png>]
+<1.4.png, id=206, 810.02625pt x 448.67625pt>
+File: 1.4.png Graphic file (type png)
+<use 1.4.png>
+Package pdftex.def Info: 1.4.png  used on input line 281.
+(pdftex.def)             Requested size: 455.2979pt x 252.19492pt.
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 517.
-
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 523.
-
-<3.3.2.png, id=112, 631.35875pt x 656.4525pt>
-File: 3.3.2.png Graphic file (type png)
-<use 3.3.2.png>
-Package pdftex.def Info: 3.3.2.png  used on input line 526.
-(pdftex.def)             Requested size: 216.84901pt x 225.46468pt.
-
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 527.
+Class acmart Warning: A possible image without description on input line 284.
 
 
-Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 532.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 536.
+LaTeX Font Info:    Trying to load font information for T1+zi4 on input line 291.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/inconsolata/t1zi4.fd
 File: t1zi4.fd 2018/01/14 T1/zi4 (Inconsolata)
 )
 LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
-(Font)              scaled to size 10.0pt on input line 536.
+(Font)              scaled to size 10.0pt on input line 291.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zi4' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for TS1+zi4 on input line 538.
- (/usr/local/texlive/2025/texmf-dist/tex/latex/inconsolata/ts1zi4.fd
-File: ts1zi4.fd 2018/01/14 TS1/zi4 (Inconsolata)
-)
-LaTeX Font Info:    Font shape `TS1/zi4/m/n' will be
-(Font)              scaled to size 10.0pt on input line 538.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `zi4' (encoding: TS1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
 
-Overfull \hbox (2.66586pt too wide) in paragraph at lines 543--544
-[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) When the orig-i-nal type field has the value 'CASH_OUT',
+
+[3.3{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc}]
+Underfull \hbox (badness 2884) in paragraph at lines 301--302
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) large-scale datasets. By ex-e-cut-ing the \T1/zi4/m/n/10 pd.read_csv()
+ []
+
+<2.1.png, id=224, 708.6475pt x 118.4425pt>
+File: 2.1.png Graphic file (type png)
+<use 2.1.png>
+Package pdftex.def Info: 2.1.png  used on input line 307.
+(pdftex.def)             Requested size: 216.84901pt x 36.24327pt.
+
+Class acmart Warning: A possible image without description on input line 310.
+
+
+
+<2.2.png, id=226, 422.57875pt x 298.11375pt>
+File: 2.2.png Graphic file (type png)
+<use 2.2.png>
+Package pdftex.def Info: 2.2.png  used on input line 332.
+(pdftex.def)             Requested size: 216.84901pt x 152.98216pt.
+
+Class acmart Warning: A possible image without description on input line 335.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[4.4 <./1.4.png> <./2.1.png>]
+<2.3.1.png, id=236, 864.22874pt x 556.0775pt>
+File: 2.3.1.png Graphic file (type png)
+<use 2.3.1.png>
+Package pdftex.def Info: 2.3.1.png  used on input line 347.
+(pdftex.def)             Requested size: 455.2979pt x 292.95477pt.
+
+
+Class acmart Warning: A possible image without description on input line 350.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<2.3.2.png, id=238, 1056.94875pt x 703.62875pt>
+File: 2.3.2.png Graphic file (type png)
+<use 2.3.2.png>
+Package pdftex.def Info: 2.3.2.png  used on input line 356.
+(pdftex.def)             Requested size: 455.2979pt x 303.10202pt.
+
+Class acmart Warning: A possible image without description on input line 359.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 7522) in paragraph at lines 363--364
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) anal-y-sis specif-i-cally for \T1/zi4/m/n/10 TRANSFER \T1/LinuxLibertineT-TLF/m/n/10 (+20) type trans-ac-tions.
  []
 
 
-
-<3.3.3.png, id=113, 969.6225pt x 514.92375pt>
-File: 3.3.3.png Graphic file (type png)
-<use 3.3.3.png>
-Package pdftex.def Info: 3.3.3.png  used on input line 555.
-(pdftex.def)             Requested size: 252.94499pt x 134.32486pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 555--556
- [][] 
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) I ex-plored the re-la-tion-ship be-tween pre-transaction
  []
 
 
-Class acmart Warning: A possible image without description on input line 559.
-
-
-Overfull \hbox (0.31973pt too wide) in paragraph at lines 574--575
-\T1/LinuxLibertineT-TLF/m/n/10 (-20) dataset ob-tained from the Kag-gle plat-form. This dataset
+Underfull \hbox (badness 1960) in paragraph at lines 363--364
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) bal-ance (\T1/zi4/m/n/10 oldbalanceOrg\T1/LinuxLibertineT-TLF/m/n/10 (+20) ) and post-transaction bal-ance
  []
 
 
-Overfull \hbox (0.86823pt too wide) in paragraph at lines 574--575
-\T1/LinuxLibertineT-TLF/m/n/10 (-20) ance changes) and is there-fore self-sufficient and highly
+Underfull \hbox (badness 1939) in paragraph at lines 363--364
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) (\T1/zi4/m/n/10 newbalanceOrig\T1/LinuxLibertineT-TLF/m/n/10 (+20) ), us-ing color to dis-tin-guish be-tween
  []
 
+<2.3.3.png, id=240, 920.43875pt x 623.32875pt>
+File: 2.3.3.png Graphic file (type png)
+<use 2.3.3.png>
+Package pdftex.def Info: 2.3.3.png  used on input line 367.
+(pdftex.def)             Requested size: 455.2979pt x 308.33467pt.
+
+Class acmart Warning: A possible image without description on input line 370.
 
 
-[8.8{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-4.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/inconsolata/i4-ts1.enc} <./3.3.1.png> <./3.3.2.png> <./3.3.3.png>]
-Overfull \hbox (2.81773pt too wide) in paragraph at lines 587--588
-[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Given the self-contained and com-plete na-ture of the dataset,
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+
+
+<2.3.4.png, id=242, 1031.855pt x 781.92125pt>
+File: 2.3.4.png Graphic file (type png)
+<use 2.3.4.png>
+Package pdftex.def Info: 2.3.4.png  used on input line 380.
+(pdftex.def)             Requested size: 455.2979pt x 345.01283pt.
+
+Class acmart Warning: A possible image without description on input line 383.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<2.4.png, id=244, 1419.3025pt x 256.96pt>
+File: 2.4.png Graphic file (type png)
+<use 2.4.png>
+Package pdftex.def Info: 2.4.png  used on input line 406.
+(pdftex.def)             Requested size: 216.84901pt x 39.25594pt.
+
+Class acmart Warning: A possible image without description on input line 409.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 1867) has occurred while \output is active []
+
+
+
+[5.5 <./2.2.png>]
+LaTeX Font Info:    Font shape `T1/zi4/b/n' will be
+(Font)              scaled to size 10.0pt on input line 432.
+
+Underfull \vbox (badness 4316) has occurred while \output is active []
+
+
+
+<3.1a.png, id=258, 2007.5pt x 443.6575pt>
+File: 3.1a.png Graphic file (type png)
+<use 3.1a.png>
+Package pdftex.def Info: 3.1a.png  used on input line 454.
+(pdftex.def)             Requested size: 455.2979pt x 100.61745pt.
+
+Class acmart Warning: A possible image without description on input line 457.
+
+
+
+[6.6 <./2.3.1.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<3.1b.png, id=267, 1133.23375pt x 314.17375pt>
+File: 3.1b.png Graphic file (type png)
+<use 3.1b.png>
+Package pdftex.def Info: 3.1b.png  used on input line 461.
+(pdftex.def)             Requested size: 455.2979pt x 126.22336pt.
+
+Class acmart Warning: A possible image without description on input line 464.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 475--476
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Selection cri-te-ria align with busi-ness ob-jec-
  []
-
-
-
-
-Package natbib Warning: Citation `he2009learning' on page 9 undefined on input line 615.
-
-
-Package natbib Warning: Citation `chawla2002smote' on page 9 undefined on input line 615.
-
-<4.1.2.1.png, id=129, 760.8425pt x 419.5675pt>
-File: 4.1.2.1.png Graphic file (type png)
-<use 4.1.2.1.png>
-Package pdftex.def Info: 4.1.2.1.png  used on input line 621.
-(pdftex.def)             Requested size: 252.94499pt x 139.48843pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 621--622
- [][] 
- []
-
-
-Class acmart Warning: A possible image without description on input line 624.
-
-
-
-[9.9 <./4.1.2.1.png>]
-<4.1.1.2.png, id=144, 1163.34625pt x 649.42625pt>
-File: 4.1.1.2.png Graphic file (type png)
-<use 4.1.1.2.png>
-Package pdftex.def Info: 4.1.1.2.png  used on input line 640.
-(pdftex.def)             Requested size: 252.94499pt x 141.19952pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 640--641
- [][] 
- []
-
-
-Class acmart Warning: A possible image without description on input line 643.
-
-
-
-
-Overfull \hbox (3.0032pt too wide) in paragraph at lines 699--700
-\T1/LinuxLibertineT-TLF/m/n/10 (-20) I there-fore se-lected \T1/LinuxLibertineT-TLF/b/n/10 (-20) Clas-si-fi-ca-tion \T1/LinuxLibertineT-TLF/m/n/10 (-20) as the data-mining method
- []
-
-
-Underfull \vbox (badness 1019) has occurred while \output is active []
-
-
-
-[10.10 <./4.1.1.2.png>]
-
-<6.3.1.png, id=155, 860.21375pt x 497.86pt>
-File: 6.3.1.png Graphic file (type png)
-<use 6.3.1.png>
-Package pdftex.def Info: 6.3.1.png  used on input line 762.
-(pdftex.def)             Requested size: 252.94499pt x 146.39642pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 762--763
- [][] 
- []
-
-
-Class acmart Warning: A possible image without description on input line 765.
-
-<7.1.1.png, id=156, 484.81125pt x 362.35374pt>
-File: 7.1.1.png Graphic file (type png)
-<use 7.1.1.png>
-Package pdftex.def Info: 7.1.1.png  used on input line 779.
-(pdftex.def)             Requested size: 252.94499pt x 189.05534pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 779--780
- [][] 
- []
-
-
-Class acmart Warning: A possible image without description on input line 782.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[11.11 <./6.3.1.png>]
-<7.1.2.png, id=174, 833.1125pt x 596.2275pt>
-File: 7.1.2.png Graphic file (type png)
-<use 7.1.2.png>
-Package pdftex.def Info: 7.1.2.png  used on input line 787.
-(pdftex.def)             Requested size: 252.94499pt x 181.01668pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 787--788
+Underfull \hbox (badness 1424) in paragraph at lines 496--497
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) di-rectly re-lated to trans-ac-tion be-hav-ior, and use
+ []
+
+
+
+[7.7 <./2.3.2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 506--507
+\T1/LinuxLibertineT-TLF/b/n/10 (+20) Neg-a-tive value check\T1/LinuxLibertineT-TLF/m/n/10 (+20) : \T1/zi4/m/n/10 amount\T1/LinuxLibertineT-TLF/m/n/10 (+20) , \T1/zi4/m/n/10 oldbalance*\T1/LinuxLibertineT-TLF/m/n/10 (+20) ,
+ []
+
+
+
+<3.2a.png, id=283, 2007.5pt x 461.725pt>
+File: 3.2a.png Graphic file (type png)
+<use 3.2a.png>
+Package pdftex.def Info: 3.2a.png  used on input line 512.
+(pdftex.def)             Requested size: 455.2979pt x 104.71498pt.
+
+Class acmart Warning: A possible image without description on input line 515.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<3.2b.png, id=284, 588.1975pt x 248.93pt>
+File: 3.2b.png Graphic file (type png)
+<use 3.2b.png>
+Package pdftex.def Info: 3.2b.png  used on input line 519.
+(pdftex.def)             Requested size: 455.2979pt x 192.68704pt.
+
+Class acmart Warning: A possible image without description on input line 522.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<3.2c.png, id=285, 643.40375pt x 389.455pt>
+File: 3.2c.png Graphic file (type png)
+<use 3.2c.png>
+Package pdftex.def Info: 3.2c.png  used on input line 526.
+(pdftex.def)             Requested size: 455.2979pt x 275.59982pt.
+
+Class acmart Warning: A possible image without description on input line 529.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 535--536
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) We de-lib-er-ately per-form qual-ity checks on the \T1/LinuxLibertineT-TLF/b/n/10 (+20) un-
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 535--536
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ing is-sues; af-ter each ma-jor trans-for-ma-tion (en-cod-ing,
+ []
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 535--536
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) stan-dard-iza-tion, re-sam-pling), we con-duct light-weight
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[8.8 <./2.3.3.png>]
+<3.3.png, id=294, 1131.22626pt x 645.41125pt>
+File: 3.3.png Graphic file (type png)
+<use 3.3.png>
+Package pdftex.def Info: 3.3.png  used on input line 551.
+(pdftex.def)             Requested size: 455.2979pt x 259.76518pt.
+
+
+Class acmart Warning: A possible image without description on input line 554.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+<3.3b.png, id=298, 503.8825pt x 85.31876pt>
+File: 3.3b.png Graphic file (type png)
+<use 3.3b.png>
+Package pdftex.def Info: 3.3b.png  used on input line 572.
+(pdftex.def)             Requested size: 455.2979pt x 77.09209pt.
+
+Class acmart Warning: A possible image without description on input line 575.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<3.3c.png, id=299, 597.23125pt x 243.91125pt>
+File: 3.3c.png Graphic file (type png)
+<use 3.3c.png>
+Package pdftex.def Info: 3.3c.png  used on input line 579.
+(pdftex.def)             Requested size: 455.2979pt x 185.94762pt.
+
+Class acmart Warning: A possible image without description on input line 582.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[9.9 <./2.3.4.png> <./2.4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 586--587
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) [\T1/zi4/m/n/10 step\T1/LinuxLibertineT-TLF/m/n/10 (+20) , \T1/zi4/m/n/10 amount\T1/LinuxLibertineT-TLF/m/n/10 (+20) , \T1/zi4/m/n/10 oldbalanceOrg\T1/LinuxLibertineT-TLF/m/n/10 (+20) , \T1/zi4/m/n/10 newbalanceOrig\T1/LinuxLibertineT-TLF/m/n/10 (+20) ,
+ []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[10.10 <./3.1a.png> <./3.1b.png> <./3.2a.png>]
+Underfull \hbox (badness 3250) in paragraph at lines 611--612
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) can-not re-li-ably con-nect with ex-ter-nal cus-tomer
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 3118) has occurred while \output is active []
+
+
+
+[11.11 <./3.2b.png> <./3.2c.png>]
+
+LaTeX Warning: Text page 12 contains only floats.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+LaTeX Warning: Text page 12 contains only floats.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[12.12 <./3.3.png> <./3.3b.png> <./3.3c.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 624--625
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Label en-cod-ing com-pleted per �3.3: \T1/zi4/m/n/10 type $\LMS/ntxsy/m/n/10 !$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--638
+\T1/zi4/m/n/10 amount\T1/LinuxLibertineT-TLF/m/n/10 (+20) , \T1/zi4/m/n/10 oldbalanceOrg\T1/LinuxLibertineT-TLF/m/n/10 (+20) , \T1/zi4/m/n/10 newbalanceOrig\T1/LinuxLibertineT-TLF/m/n/10 (+20) ,
+ []
+
+
+Overfull \hbox (2.02307pt too wide) in paragraph at lines 637--638
+\T1/zi4/m/n/10 oldbalanceDest\T1/LinuxLibertineT-TLF/m/n/10 (-20) , \T1/zi4/m/n/10 newbalanceDest\T1/LinuxLibertineT-TLF/m/n/10 (-20) , \T1/zi4/m/n/10 type_encoded\T1/LinuxLibertineT-TLF/m/n/10 (-20) ) 
+ []
+
+
+Underfull \hbox (badness 2205) in paragraph at lines 638--639
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) All are nu-mer-i-cal types (\T1/zi4/m/n/10 float64$\LMS/ntxsy/m/n/10 ^^B$\T1/LinuxLibertineT-TLF/m/n/10 (+20) 5, \T1/zi4/m/n/10 int64$\LMS/ntxsy/m/n/10 ^^B$\T1/LinuxLibertineT-TLF/m/n/10 (+20) 1,
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 638--639
+\T1/zi4/m/n/10 int8$\LMS/ntxsy/m/n/10 ^^B$\T1/LinuxLibertineT-TLF/m/n/10 (+20) 1), \T1/LinuxLibertineT-TLF/b/n/10 (+20) no object-type strings\T1/LinuxLibertineT-TLF/m/n/10 (+20) , \T1/LinuxLibertineT-TLF/b/n/10 (+20) no miss-ing
+ []
+
+<3.5a.png, id=341, 571.13374pt x 229.85875pt>
+File: 3.5a.png Graphic file (type png)
+<use 3.5a.png>
+Package pdftex.def Info: 3.5a.png  used on input line 647.
+(pdftex.def)             Requested size: 455.2979pt x 183.23837pt.
+
+Class acmart Warning: A possible image without description on input line 650.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<3.5b.png, id=342, 332.24126pt x 271.0125pt>
+File: 3.5b.png Graphic file (type png)
+<use 3.5b.png>
+Package pdftex.def Info: 3.5b.png  used on input line 654.
+(pdftex.def)             Requested size: 216.84901pt x 176.88797pt.
+
+Class acmart Warning: A possible image without description on input line 657.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+LaTeX Font Info:    Trying to load font information for OMS+LinuxLibertineT-TLF on input line 677.
+LaTeX Font Info:    No file OMSLinuxLibertineT-TLF.fd. on input line 677.
+
+LaTeX Font Warning: Font shape `OMS/LinuxLibertineT-TLF/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead on input line 677.
+
+<<oms.cmap>>
+<4.1.png, id=345, 1057.9525pt x 591.20876pt>
+File: 4.1.png Graphic file (type png)
+<use 4.1.png>
+Package pdftex.def Info: 4.1.png  used on input line 683.
+(pdftex.def)             Requested size: 455.2979pt x 254.4313pt.
+
+
+Class acmart Warning: A possible image without description on input line 686.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 690--691
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ac-cord-ing to \T1/LinuxLibertineT-TLF/b/n/10 (+20) FP:FN = 1:25\T1/LinuxLibertineT-TLF/m/n/10 (+20) , then eval-u-ated \T1/LinuxLibertineT-TLF/b/n/10 (+20) PR-AUC
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<4.1.3.png, id=348, 794.97pt x 113.42375pt>
+File: 4.1.3.png Graphic file (type png)
+<use 4.1.3.png>
+Package pdftex.def Info: 4.1.3.png  used on input line 726.
+(pdftex.def)             Requested size: 455.2979pt x 64.96199pt.
+
+Class acmart Warning: A possible image without description on input line 729.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 736--737
+\T1/LinuxLibertineT-TLF/b/n/10 (+20) -0.305 \T1/LinuxLibertineT-TLF/m/n/10 (+20) (0.976$\LMS/ntxsy/m/n/10 !$\T1/LinuxLibertineT-TLF/m/n/10 (+20) 0.670), \T1/LinuxLibertineT-TLF/b/n/10 (+20) FPR $\LMS/ntxsy/m/n/10 ^^B$\T1/LinuxLibertineT-TLF/b/n/10 (+20) 12.4 \T1/LinuxLibertineT-TLF/m/n/10 (+20) (0.51%$\LMS/ntxsy/m/n/10 !$\T1/LinuxLibertineT-TLF/m/n/10 (+20) 6.32%),
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 737--738
+\T1/LinuxLibertineT-TLF/b/n/10 (+20) PR-AUC $\LMS/ntxsy/m/n/10 #$\T1/LinuxLibertineT-TLF/b/n/10 (+20) 4.7%\T1/LinuxLibertineT-TLF/m/n/10 (+20) , \T1/LinuxLibertineT-TLF/b/n/10 (+20) Pre-ci-sion $\LMS/ntxsy/m/n/10 #$\T1/LinuxLibertineT-TLF/b/n/10 (+20) 28.7%\T1/LinuxLibertineT-TLF/m/n/10 (+20) , \T1/LinuxLibertineT-TLF/b/n/10 (+20) FPR $\LMS/ntxsy/m/n/10 "$\T1/LinuxLibertineT-TLF/b/n/10 (+20) 57.6%\T1/LinuxLibertineT-TLF/m/n/10 (+20) ,
+ []
+
+
+Underfull \hbox (badness 6078) in paragraph at lines 745--746
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) clear-ing/balance anom-aly'' pat-terns; \T1/zi4/m/n/10 step \T1/LinuxLibertineT-TLF/m/n/10 (+20) helps
+ []
+
+
+
+[13.13]
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 753--754
+ \T1/LinuxLibertineT-TLF/b/n/10 (+20) 4.2.1 Mo-ti-va-tion (Skew-ness).[] \T1/LinuxLibertineT-TLF/m/n/10 (+20) Pay-ment amount and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 753--754
+\T1/zi4/m/n/10 newbalanceOrig\T1/LinuxLibertineT-TLF/m/n/10 (+20) , \T1/zi4/m/n/10 oldbalanceDest\T1/LinuxLibertineT-TLF/m/n/10 (+20) , \T1/zi4/m/n/10 newbalanceDest\T1/LinuxLibertineT-TLF/m/n/10 (+20) )
+ []
+
+
+
+[14.14 <./3.5a.png> <./3.5b.png>]
+LaTeX Font Info:    Font shape `T1/zi4/m/n' will be
+(Font)              scaled to size 9.0pt on input line 762.
+
+Overfull \hbox (12.20015pt too wide) in paragraph at lines 758--773
+ [] 
+ []
+
+
+Overfull \hbox (4.38922pt too wide) in paragraph at lines 775--776
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Table Note\T1/LinuxLibertineT-TLF/m/n/10 (-20) : Skew-ness com-par-i-son of main amount/balance
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 775--776
+\T1/LinuxLibertineT-TLF/m/it/10 (+20) SKEW-NESS ANAL-Y-SIS \T1/LinuxLibertineT-TLF/m/n/10 (+20) out-put (sec-tions ``Orig-i-nal data
+ []
+
+
+Underfull \vbox (badness 1292) has occurred while \output is active []
+
+
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 785--786
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Approach B: Log1p+Scale \T1/LinuxLibertineT-TLF/m/n/10 (+20) --- Ap-ply log1p first
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 785--786
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) to highly skewed nu-mer-i-cal columns, then Stan-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 785--786
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) dard-Scaler; cat-e-gor-i-cal columns fol-low cur-rent
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[15.15 <./4.1.png> <./4.1.3.png>]
+<4.2-1.png, id=391, 850.17625pt x 236.885pt>
+File: 4.2-1.png Graphic file (type png)
+<use 4.2-1.png>
+Package pdftex.def Info: 4.2-1.png  used on input line 806.
+(pdftex.def)             Requested size: 455.2979pt x 126.86053pt.
+
+
+Class acmart Warning: A possible image without description on input line 809.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<4.2a.png, id=396, 1000.73875pt x 792.9625pt>
+File: 4.2a.png Graphic file (type png)
+<use 4.2a.png>
+Package pdftex.def Info: 4.2a.png  used on input line 817.
+(pdftex.def)             Requested size: 455.2979pt x 360.76219pt.
+
+Class acmart Warning: A possible image without description on input line 820.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<4.2b.png, id=397, 992.70876pt x 792.9625pt>
+File: 4.2b.png Graphic file (type png)
+<use 4.2b.png>
+Package pdftex.def Info: 4.2b.png  used on input line 824.
+(pdftex.def)             Requested size: 455.2979pt x 363.6903pt.
+
+Class acmart Warning: A possible image without description on input line 827.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<4.2c.png, id=398, 874.26625pt x 524.96124pt>
+File: 4.2c.png Graphic file (type png)
+<use 4.2c.png>
+Package pdftex.def Info: 4.2c.png  used on input line 831.
+(pdftex.def)             Requested size: 455.2979pt x 273.38994pt.
+
+Class acmart Warning: A possible image without description on input line 834.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+
+
+[16.16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[17.17 <./4.2-1.png> <./4.2a.png>]
+Underfull \hbox (badness 1163) in paragraph at lines 889--890
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) ob-tained af-ter model train-ing are highly in-ter-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[18.18 <./4.2b.png>]
+Underfull \hbox (badness 1796) in paragraph at lines 905--906
+ \T1/LinuxLibertineT-TLF/b/n/10 (+20) 5.2.3 Com-par-i-son with Other Meth-ods (Base-line
+ []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[19.19 <./4.2c.png>]
+<6.1.png, id=431, 557.08125pt x 117.43875pt>
+File: 6.1.png Graphic file (type png)
+<use 6.1.png>
+Package pdftex.def Info: 6.1.png  used on input line 947.
+(pdftex.def)             Requested size: 216.84901pt x 45.7131pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 968--969
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Achieves \T1/LinuxLibertineT-TLF/b/n/10 (+20) low-est Cost/1k trans-ac-tions \T1/LinuxLibertineT-TLF/m/n/10 (+20) un-der
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 969--970
+\T1/LinuxLibertineT-TLF/b/n/10 (+20) in-ter-pretabil-ity, sim-ple de-ploy-ment \T1/LinuxLibertineT-TLF/m/n/10 (+20) (easy
+ []
+
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 977--978
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Hyperparameters\T1/LinuxLibertineT-TLF/m/n/10 (+20) : n_estimators, max_depth,
+ []
+
+
+Overfull \hbox (33.08218pt too wide) in paragraph at lines 977--978
+\T1/LinuxLibertineT-TLF/m/n/10 (-20) min_samples_split/leaf, max_features, class_weight='balanced'
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 990--991
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Features\T1/LinuxLibertineT-TLF/m/n/10 (+20) : [step, amount, old-bal-ance-Org, new-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 990--991
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) bal-ance-Orig, old-bal-anceDest, new-bal-anceDest,
+ []
+
+
+Overfull \hbox (46.5682pt too wide) in paragraph at lines 990--991
+\T1/LinuxLibertineT-TLF/m/n/10 (-20) type_encoded]; con-tin-u-ous fea-tures use \T1/LinuxLibertineT-TLF/b/n/10 (-20) Log1p$\LMS/ntxsy/m/n/10 !$\T1/LinuxLibertineT-TLF/b/n/10 (-20) StandardScaler\T1/LinuxLibertineT-TLF/m/n/10 (-20) ;
+ []
+
+<6.3.1.jpg, id=438, 646.415pt x 561.09625pt>
+File: 6.3.1.jpg Graphic file (type jpg)
+<use 6.3.1.jpg>
+Package pdftex.def Info: 6.3.1.jpg  used on input line 1001.
+(pdftex.def)             Requested size: 455.2979pt x 395.20476pt.
+
+Class acmart Warning: A possible image without description on input line 1004.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 1014--1014
+[]\T1/LinuxLibertineT-TLF/m/n/9 (+20) IterA: Down-sam-ple +
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 1014--1014
+[]\T1/LinuxLibertineT-TLF/m/n/9 (+20) Log1p $\LMS/ntxsy/m/n/9 !$ \T1/LinuxLibertineT-TLF/m/n/9 (+20) Stan-dard-Scaler
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1014--1014
+\T1/LinuxLibertineT-TLF/m/n/9 (+20) C=1.0, max_iter=1000, ran-
+ []
+
+
+Underfull \hbox (badness 2913) in paragraph at lines 1016--1016
+[]\T1/LinuxLibertineT-TLF/m/n/9 (+20) IterB: Class-Weight +
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 1016--1016
+[]\T1/LinuxLibertineT-TLF/m/n/9 (+20) Log1p $\LMS/ntxsy/m/n/9 !$ \T1/LinuxLibertineT-TLF/m/n/9 (+20) Stan-dard-Scaler
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1016--1016
+[]\T1/LinuxLibertineT-TLF/m/n/9 (+20) solver='lbfgs', penalty='l2',
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1016--1016
+\T1/LinuxLibertineT-TLF/m/n/9 (+20) max_iter=1000, ran-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1018--1018
+[]\T1/LinuxLibertineT-TLF/m/n/9 (+20) Default hy-per-pa-ram-e-ters
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1018--1018
+\T1/LinuxLibertineT-TLF/m/n/9 (+20) (tune next it-er-a-tion), ran-
+ []
+
+
+Overfull \hbox (17.80682pt too wide) in paragraph at lines 1010--1021
  [][] 
  []
 
 
-Class acmart Warning: A possible image without description on input line 790.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1031--1032
+[]\T1/LinuxLibertineT-TLF/m/n/10 (+20) Training/threshold search/test eval-u-a-tion logs
+ []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 1031--1032
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) and pa-ram-e-ter snap-shots saved to ap-pen-dix for
+ []
 
 
 
-<7.3.png, id=175, 500.87125pt x 400.49625pt>
+[20.20 <./6.1.png>]
+
+LaTeX Warning: Text page 21 contains only floats.
+
+
+Overfull \vbox (2.4048pt too high) has occurred while \output is active []
+
+
+
+
+LaTeX Warning: Text page 21 contains only floats.
+
+
+Overfull \vbox (2.4048pt too high) has occurred while \output is active []
+
+
+
+[21.21 <./6.3.1.jpg>]
+Underfull \hbox (badness 1400) in paragraph at lines 1054--1055
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Providing suf-fi-cient train-ing data\T1/LinuxLibertineT-TLF/m/n/10 (+20) : En-sur-ing
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 1054--1055
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) enough sam-ples (70%) for the model to learn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1058--1059
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Ensuring Rep-re-sen-ta-tive and Re-pro-ducible
+ []
+
+
+Overfull \hbox (16.72687pt too wide) in paragraph at lines 1061--1062
+[]\T1/LinuxLibertineT-TLF/b/n/10 (-20) Random Seed\T1/LinuxLibertineT-TLF/m/n/10 (-20) : We set ran-dom seed (\T1/zi4/m/n/10 random_state=42\T1/LinuxLibertineT-TLF/m/n/10 (-20) ).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1061--1062
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) runs, mak-ing our ex-per-i-men-tal re-sults fully
+ []
+
+<7.1.png, id=459, 665.48625pt x 66.2475pt>
+File: 7.1.png Graphic file (type png)
+<use 7.1.png>
+Package pdftex.def Info: 7.1.png  used on input line 1075.
+(pdftex.def)             Requested size: 455.2979pt x 45.32466pt.
+
+Class acmart Warning: A possible image without description on input line 1078.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1084--1085
+ \T1/LinuxLibertineT-TLF/b/n/10 (+20) 7.1.3 Risks and Mit-i-ga-tion (Avoid-ing Leak-age).[]
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 1084--1085
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) In PaySim, the same ac-count ap-pears across mul-ti-ple
+ []
+
+
+Underfull \hbox (badness 4242) in paragraph at lines 1084--1085
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) Ad-di-tion-ally, \T1/zi4/m/n/10 step \T1/LinuxLibertineT-TLF/m/n/10 (+20) rep-re-sents time steps, so ran-dom
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 1084--1085
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) we pro-vide ro-bust-ness checks in the ap-pen-dix: us-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1084--1085
+\T1/zi4/m/n/10 GroupShuffleSplit(by=nameOrig) \T1/LinuxLibertineT-TLF/m/n/10 (+20) and time-window
+ []
+
+
+Overfull \hbox (26.10373pt too wide) in paragraph at lines 1092--1093
+\T1/LinuxLibertineT-TLF/b/n/10 (-20) bil-i-ties \T1/LinuxLibertineT-TLF/m/n/10 (-20) for the test set: call-ing \T1/zi4/m/n/10 model.predict_proba(X_test)[:,
+ []
+
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/sb/n' will be
+(Font)              scaled to size 10.0pt on input line 1094.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/sb/n' will be
+(Font)              scaled to size 7.3pt on input line 1094.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/sb/n' will be
+(Font)              scaled to size 5.5pt on input line 1094.
+<7.2.png, id=461, 416.55624pt x 96.36pt>
+File: 7.2.png Graphic file (type png)
+<use 7.2.png>
+Package pdftex.def Info: 7.2.png  used on input line 1106.
+(pdftex.def)             Requested size: 216.84901pt x 50.16335pt.
+
+Class acmart Warning: A possible image without description on input line 1109.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[22.22{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/libertine/lbtn_fygcup.enc}]
+<7.3.png, id=478, 428.60126pt x 84.315pt>
 File: 7.3.png Graphic file (type png)
 <use 7.3.png>
-Package pdftex.def Info: 7.3.png  used on input line 826.
-(pdftex.def)             Requested size: 303.53708pt x 242.71959pt.
+Package pdftex.def Info: 7.3.png  used on input line 1123.
+(pdftex.def)             Requested size: 216.84901pt x 42.65913pt.
 
-Overfull \hbox (62.59209pt too wide) in paragraph at lines 826--827
- [][] 
+
+Class acmart Warning: A possible image without description on input line 1126.
+
+
+
+
+Underfull \hbox (badness 2689) in paragraph at lines 1159--1160
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) base-line model achieves suc-cess. Sec-tion 4.1's
  []
 
 
-Class acmart Warning: A possible image without description on input line 829.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[12.12 <./7.1.1.png> <./7.1.2.png> <./7.3.png>]
-Overfull \hbox (3.0656pt too wide) in paragraph at lines 842--843
-\T1/LinuxLibertineT-TLF/m/n/10 (-20) the \T1/LinuxLibertineT-TLF/b/n/10 (-20) pre-ci-sion \T1/LinuxLibertineT-TLF/m/n/10 (-20) was \T1/LinuxLibertineT-TLF/b/n/10 (-20) 93.26%\T1/LinuxLibertineT-TLF/m/n/10 (-20) , and the \T1/LinuxLibertineT-TLF/b/n/10 (-20) re-call \T1/LinuxLibertineT-TLF/m/n/10 (-20) was \T1/LinuxLibertineT-TLF/b/n/10 (-20) 89.51%\T1/LinuxLibertineT-TLF/m/n/10 (-20) . 
+[23.23 <./7.1.png> <./7.2.png> <./7.3.png>]
+Underfull \hbox (badness 2903) in paragraph at lines 1169--1171
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Successful Pat-tern (High Re-call)\T1/LinuxLibertineT-TLF/m/n/10 (+20) : The model
  []
 
-<8.1.png, id=188, 691.58376pt x 645.41125pt>
+
+
+<8.1.png, id=495, 598.235pt x 470.75874pt>
 File: 8.1.png Graphic file (type png)
 <use 8.1.png>
-Package pdftex.def Info: 8.1.png  used on input line 859.
-(pdftex.def)             Requested size: 252.94499pt x 236.05078pt.
+Package pdftex.def Info: 8.1.png  used on input line 1197.
+(pdftex.def)             Requested size: 216.84901pt x 170.64388pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 859--860
+Class acmart Warning: A possible image without description on input line 1200.
+
+<8.2.png, id=497, 594.22pt x 465.74pt>
+File: 8.2.png Graphic file (type png)
+<use 8.2.png>
+Package pdftex.def Info: 8.2.png  used on input line 1210.
+(pdftex.def)             Requested size: 216.84901pt x 169.9617pt.
+
+Class acmart Warning: A possible image without description on input line 1213.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[24.24 <./8.1.png>]
+
+
+Underfull \hbox (badness 7925) in paragraph at lines 1240--1241
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Final Rec-om-men-da-tion: Op-ti-mal Op-er-at-ing
+ []
+
+
+Underfull \hbox (badness 1661) in paragraph at lines 1240--1241
+\T1/LinuxLibertineT-TLF/b/n/10 (+20) Point Un-der Cost Con-straints (Iter-B, Class-
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 1240--1241
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) set's min-i-mum cost thresh-old, test set achieves:
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 1251--1252
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) pro-vid-ing an op-er-a-tional base-line un-der cost-sensitive
+ []
+
+
+Underfull \vbox (badness 1769) has occurred while \output is active []
+
+
+
+[25.25 <./8.2.png>]
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/sb/n' will be
+(Font)              scaled to size 9.0pt on input line 1271.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/sb/n' will be
+(Font)              scaled to size 6.6pt on input line 1271.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1273--1273
+[]\T1/LinuxLibertineT-TLF/b/n/9 (+20) Success Cri-te-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1273--1273
+[]\T1/LinuxLibertineT-TLF/b/n/9 (+20) Final Per-for-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1275--1275
+[]\T1/LinuxLibertineT-TLF/m/n/9 (+20) Min Cost @
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1277--1277
+[]\T1/LinuxLibertineT-TLF/m/n/9 (+20) AUC (Area Un-der
+ []
+
+
+Overfull \hbox (43.74843pt too wide) in paragraph at lines 1271--1284
  [][] 
  []
 
 
-Class acmart Warning: A possible image without description on input line 862.
+Underfull \hbox (badness 4303) in paragraph at lines 1290--1291
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Caliber\T1/LinuxLibertineT-TLF/m/n/10 (+20) : Thresh-old $\OML/nxlmi/m/it/10 ^^\[]$ \T1/LinuxLibertineT-TLF/m/n/10 (+20) = 0.9488 (de-ter-mined from
+ []
+
+<8.4a.jpg, id=523, 604.2575pt x 258.9675pt>
+File: 8.4a.jpg Graphic file (type jpg)
+<use 8.4a.jpg>
+Package pdftex.def Info: 8.4a.jpg  used on input line 1296.
+(pdftex.def)             Requested size: 455.2979pt x 195.12607pt.
+
+Class acmart Warning: A possible image without description on input line 1299.
 
 
-Overfull \hbox (3.28923pt too wide) in paragraph at lines 867--868
-\T1/LinuxLibertineT-TLF/m/n/10 (-20) ration stage, namely that fraud-u-lent ac-tiv-i-ties are highly
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 1301--1302
+ \T1/LinuxLibertineT-TLF/b/n/10 (+20) 8.4.2 Eval-u-a-tion Con-clu-sion and Project Value.[]
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 1301--1302
+\T1/LinuxLibertineT-TLF/b/n/10 (+20) Thresh-old Se-lec-tion and In-ter-pretabil-ity \T1/LinuxLibertineT-TLF/m/n/10 (+20) Fig-ure [][]31[][]
+ []
+
+<8.4b.jpg, id=526, 513.92pt x 254.9525pt>
+File: 8.4b.jpg Graphic file (type jpg)
+<use 8.4b.jpg>
+Package pdftex.def Info: 8.4b.jpg  used on input line 1305.
+(pdftex.def)             Requested size: 455.2979pt x 225.87218pt.
+
+Class acmart Warning: A possible image without description on input line 1308.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 1317--1318
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) cost ra-tios for dif-fer-ent sce-nar-ios, seg-mented or
  []
 
 
 
-<8.2.1.png, id=189, 585.18625pt x 314.17375pt>
-File: 8.2.1.png Graphic file (type png)
-<use 8.2.1.png>
-Package pdftex.def Info: 8.2.1.png  used on input line 885.
-(pdftex.def)             Requested size: 252.94499pt x 135.80156pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 885--886
- [][] 
+[26.26]
+Overfull \hbox (6.68594pt too wide) in paragraph at lines 1350--1350
+[]\T1/LinuxLibertineT-TLF/b/n/9 (-20) Threshold| 
  []
 
 
-Class acmart Warning: A possible image without description on input line 888.
-
-<8.2.2.png, id=190, 636.3775pt x 479.7925pt>
-File: 8.2.2.png Graphic file (type png)
-<use 8.2.2.png>
-Package pdftex.def Info: 8.2.2.png  used on input line 895.
-(pdftex.def)             Requested size: 252.94499pt x 190.70561pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 895--896
- [][] 
+Underfull \hbox (badness 10000) in paragraph at lines 1350--1350
+[]\T1/LinuxLibertineT-TLF/b/n/9 (+20) ROC
  []
 
 
-Class acmart Warning: A possible image without description on input line 898.
-
-
-Underfull \vbox (badness 3690) has occurred while \output is active []
-
-
-
-[13.13 <./8.1.png> <./8.2.1.png>]
-
-/Users/miamiao/Desktop/Assignment 01/assignment01.tex:900: LaTeX Error: Lonely \item--perhaps a missing list environment.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.900 \item \textbf
-                   {Precision---Recall Curve:} This curve shows performance ...
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \hbox (badness 10000) detected at line 900
-[][]
+Overfull \hbox (3.11221pt too wide) in paragraph at lines 1350--1350
+[]\T1/LinuxLibertineT-TLF/b/n/9 (-20) Precision| 
  []
 
 
-Package natbib Warning: Citation `davis2006relationship' on page 14 undefined on input line 900.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Package natbib Warning: Citation `saito2015precision' on page 14 undefined on input line 900.
 
-<8.2.3.png, id=207, 1667.22874pt x 1392.20125pt>
-File: 8.2.3.png Graphic file (type png)
-<use 8.2.3.png>
-Package pdftex.def Info: 8.2.3.png  used on input line 904.
-(pdftex.def)             Requested size: 252.94499pt x 211.20042pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 904--905
- [][] 
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[27.27 <./8.4a.jpg> <./8.4b.jpg>]
+Underfull \hbox (badness 1939) in paragraph at lines 1371--1371
+[]\T1/LinuxLibertineT-TLF/b/n/9 (+20) False Neg-a-tives per
  []
 
 
-Class acmart Warning: A possible image without description on input line 907.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<8.5a.png, id=547, 690.58pt x 554.07pt>
+File: 8.5a.png Graphic file (type png)
+<use 8.5a.png>
+Package pdftex.def Info: 8.5a.png  used on input line 1384.
+(pdftex.def)             Requested size: 216.84901pt x 173.98343pt.
 
-/Users/miamiao/Desktop/Assignment 01/assignment01.tex:908: LaTeX Error: \begin{document} ended by \end{enumerate}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.908 \end{enumerate}
-                     
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-/Users/miamiao/Desktop/Assignment 01/assignment01.tex:908: Extra \endgroup.
-\end  ...end#1\endcsname \@checkend {#1}\endgroup 
-                                                  \UseHook {env/#1/after}\if...
-l.908 \end{enumerate}
-                     
-Things are pretty mixed up, but I think the worst is over.
-
-
-
-
-Overfull \hbox (17.76169pt too wide) in paragraph at lines 926--927
-[]\T1/LinuxLibertineT-TLF/m/n/10 (-20) Metrics are com-puted based on Fig-ure 8.2.1: TN=2256,
+Underfull \hbox (badness 2080) in paragraph at lines 1385--1385
+[]\T1/LinuxLibertineT-TLF/b/n/10 (+20) Figure 33. |\T1/LinuxLibertineT-TLF/m/n/10 (+20) ROC on test set. It-erA AUC=0.961; IterB
  []
 
 
-Package natbib Warning: Citation `powers2011evaluation' on page 14 undefined on input line 928.
-
-<table5.jpg, id=208, 618.31pt x 149.55875pt>
-File: table5.jpg Graphic file (type jpg)
-<use table5.jpg>
-Package pdftex.def Info: table5.jpg  used on input line 956.
-(pdftex.def)             Requested size: 252.94499pt x 61.18256pt.
-
-Overfull \hbox (12.0pt too wide) in paragraph at lines 956--957
- [][] 
+Underfull \hbox (badness 1817) in paragraph at lines 1385--1385
+\T1/LinuxLibertineT-TLF/m/n/10 (+20) AUC=0.976. Cal-iber: thresh-old = $\OML/nxlmi/m/it/10 ^^\[]$ \T1/LinuxLibertineT-TLF/m/n/10 (+20) (de-ter-mined from
  []
 
 
-Class acmart Warning: A possible image without description on input line 959.
+Class acmart Warning: A possible image without description on input line 1387.
+
+<8.5b.png, id=548, 700.6175pt x 549.05125pt>
+File: 8.5b.png Graphic file (type png)
+<use 8.5b.png>
+Package pdftex.def Info: 8.5b.png  used on input line 1391.
+(pdftex.def)             Requested size: 216.84901pt x 169.93604pt.
+
+Class acmart Warning: A possible image without description on input line 1394.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<8.5c.png, id=549, 610.28pt x 470.75874pt>
+File: 8.5c.png Graphic file (type png)
+<use 8.5c.png>
+Package pdftex.def Info: 8.5c.png  used on input line 1398.
+(pdftex.def)             Requested size: 216.84901pt x 167.27496pt.
+
+Class acmart Warning: A possible image without description on input line 1401.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<8.5d.png, id=550, 603.25375pt x 477.785pt>
+File: 8.5d.png Graphic file (type png)
+<use 8.5d.png>
+Package pdftex.def Info: 8.5d.png  used on input line 1405.
+(pdftex.def)             Requested size: 216.84901pt x 171.7473pt.
+
+Class acmart Warning: A possible image without description on input line 1408.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[14.14 <./8.2.2.png> <./8.2.3.png>]
-Underfull \vbox (badness 1033) has occurred while \output is active []
+
+
+[28.28 <./8.5a.png> <./8.5b.png> <./8.5c.png>] (./assignment01.bbl
+Underfull \vbox (badness 7047) has occurred while \output is active []
 
 
 
+)
+
+Class acmart Warning: \vspace should only be used to provide space above/below surrounding objects on input line 1429.
 
 
-[15.15 <./table5.jpg>] (./assignment01.bbl)
-
-Package natbib Warning: There were undefined citations.
+Underfull \hbox (badness 10000) in paragraph at lines 1430--1432
+[][]$\T1/LinuxBiolinumT-TLF/m/n/10 (+20) h^^]ps : / / www . auckland . ac . nz / en / students / forms -[] policies -[]
+ []
 
 
 Class acmart Warning: Some images may lack descriptions.
 
 
+Class acmart Warning: CCS concepts are mandatory for papers over two pages.
 
 
 
 
-Overfull \vbox (2.36pt too high) has occurred while \output is active []
+Package balance Warning: You have called \balance in second column
+(balance)                Columns might not be balanced.
 
- [16.16] (/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
+(/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (/usr/local/texlive/2025/texmf-dist/tex/generic/stringenc/se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-)
-LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 1054.
- [17.16] (./assignment01.aux)
+) [29.29 <./8.5d.png>] (./assignment01.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-LaTeX Warning: Temporary extra page added at the end. Rerun to get it removed.
-
-
-Package rerunfilecheck Warning: File `assignment01.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `assignment01.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  CC255AB768B3E2298D975B8B9011629F;7377.
+Package rerunfilecheck Info: File `assignment01.out' has not changed.
+(rerunfilecheck)             Checksum: 043F7F8A33E88E064A25CCE9619FEF6A;7474.
  ) 
 Here is how much of TeX's memory you used:
- 21517 strings out of 473190
- 348451 string characters out of 5715800
- 813381 words of memory out of 5000000
- 43710 multiletter control sequences out of 15000+600000
- 721188 words of font info for 396 fonts, out of 8000000 for 9000
+ 22072 strings out of 473190
+ 359471 string characters out of 5715800
+ 834534 words of memory out of 5000000
+ 44032 multiletter control sequences out of 15000+600000
+ 759194 words of font info for 515 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 90i,13n,131p,1566b,650s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/libertine/LinLibertineTBI.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on assignment01.pdf (17 pages, 4629346 bytes).
+ 90i,13n,131p,1103b,669s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4b.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/newtx/LibertineMathMI.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/newtx/LibertineMathMI7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/newtx/LibertineMathRM.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/libertine/LinLibertineTBI.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/libertine/LinLibertineTZ.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/newtx/txsym.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
+Output written on assignment01.pdf (29 pages, 4348923 bytes).
 PDF statistics:
- 312 PDF objects out of 1000 (max. 8388607)
- 217 compressed objects within 3 object streams
- 111 named destinations out of 1000 (max. 500000)
- 87187 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 692 PDF objects out of 1000 (max. 8388607)
+ 547 compressed objects within 6 object streams
+ 176 named destinations out of 1000 (max. 500000)
+ 108542 words of extra memory for PDF output out of 128383 (max. 10000000)
 
