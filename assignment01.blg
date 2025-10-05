@@ -12,48 +12,44 @@ Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
-Warning--empty publisher in elkan2001foundations
-Warning--empty address in elkan2001foundations
-Warning--page numbers missing in both pages and numpages fields in elkan2001foundations
-You've used 5 entries,
+You've used 8 entries,
             6056 wiz_defined-function locations,
-            1513 strings with 18730 characters,
-and the built_in function-call counts, 5629 in all, are:
-= -- 795
-> -- 149
+            1528 strings with 19770 characters,
+and the built_in function-call counts, 7428 in all, are:
+= -- 976
+> -- 256
 < -- 0
-+ -- 53
-- -- 56
-* -- 345
-:= -- 518
-add.period$ -- 24
-call.type$ -- 5
-change.case$ -- 32
-chr.to.int$ -- 5
++ -- 82
+- -- 96
+* -- 497
+:= -- 776
+add.period$ -- 39
+call.type$ -- 8
+change.case$ -- 54
+chr.to.int$ -- 7
 cite$ -- 8
-duplicate$ -- 493
-empty$ -- 342
-format.name$ -- 72
-if$ -- 1416
-int.to.chr$ -- 2
+duplicate$ -- 611
+empty$ -- 434
+format.name$ -- 104
+if$ -- 1752
+int.to.chr$ -- 3
 int.to.str$ -- 1
-missing$ -- 17
-newline$ -- 78
-num.names$ -- 35
-pop$ -- 185
+missing$ -- 12
+newline$ -- 126
+num.names$ -- 55
+pop$ -- 217
 preamble$ -- 1
-purify$ -- 72
+purify$ -- 116
 quote$ -- 0
-skip$ -- 189
+skip$ -- 233
 stack$ -- 0
-substring$ -- 406
-swap$ -- 55
+substring$ -- 468
+swap$ -- 48
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 108
-warning$ -- 3
-while$ -- 34
+type$ -- 192
+warning$ -- 0
+while$ -- 50
 width$ -- 0
-write$ -- 130
-(There were 3 warnings)
+write$ -- 206

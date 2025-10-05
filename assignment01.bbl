@@ -2,7 +2,7 @@
 %%% Do NOT edit. File created by BibTeX with style
 %%% ACM-Reference-Format-Journals [18-Jan-2012].
 
-\begin{thebibliography}{5}
+\begin{thebibliography}{8}
 
 %%% ====================================================================
 %%% NOTE TO THE USER: you can override these defaults by providing
@@ -36,43 +36,91 @@
 \providecommand\natexlab[1]{#1}
 \providecommand\showeprint[2][]{arXiv:#2}
 
-\bibitem[Chawla et~al\mbox{.}(2002)]%
-        {chawla2002smote}
-\bibfield{author}{\bibinfo{person}{Nitesh~V Chawla}, \bibinfo{person}{Kevin~W Bowyer}, \bibinfo{person}{Lawrence~O Hall}, {and} \bibinfo{person}{W~Philip Kegelmeyer}.} \bibinfo{year}{2002}\natexlab{}.
-\newblock \showarticletitle{SMOTE: Synthetic minority over-sampling technique}.
-\newblock \bibinfo{journal}{\emph{Journal of Artificial Intelligence Research}}  \bibinfo{volume}{16} (\bibinfo{year}{2002}), \bibinfo{pages}{321--357}.
+\bibitem[Abr{\`a}moff et~al\mbox{.}(2023)]%
+        {abramoff2023autonomous}
+\bibfield{author}{\bibinfo{person}{M.~D. Abr{\`a}moff} {et~al\mbox{.}}} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Autonomous artificial intelligence increases real-world specialist clinic productivity in a cluster-randomized trial}.
+\newblock \bibinfo{journal}{\emph{npj Digital Medicine}}  \bibinfo{volume}{6} (\bibinfo{year}{2023}), \bibinfo{pages}{184}.
 \newblock
+\href{https://doi.org/10.1038/s41746-023-00931-7}{doi:\nolinkurl{10.1038/s41746-023-00931-7}}
 
 
-\bibitem[Elkan(2001)]%
-        {elkan2001foundations}
-\bibfield{author}{\bibinfo{person}{Charles Elkan}.} \bibinfo{year}{2001}\natexlab{}.
-\newblock \showarticletitle{The Foundations of Cost-Sensitive Learning}. In \bibinfo{booktitle}{\emph{Proceedings of IJCAI-01}}.
+\bibitem[Abr{\`a}moff et~al\mbox{.}(2018)]%
+        {abramoff2018pivotal}
+\bibfield{author}{\bibinfo{person}{M.~D. Abr{\`a}moff}, \bibinfo{person}{P.~T. Lavin}, \bibinfo{person}{M. Birch}, \bibinfo{person}{N. Shah}, {and} \bibinfo{person}{J.~C. Folk}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Pivotal trial of an autonomous AI-based diagnostic system for detection of diabetic retinopathy in primary care offices}.
+\newblock \bibinfo{journal}{\emph{npj Digital Medicine}} \bibinfo{volume}{1}, \bibinfo{number}{1} (\bibinfo{year}{2018}), \bibinfo{pages}{39}.
 \newblock
+\href{https://doi.org/10.1038/s41746-018-0040-6}{doi:\nolinkurl{10.1038/s41746-018-0040-6}}
 
 
-\bibitem[He and Garcia(2009)]%
-        {he2009learning}
-\bibfield{author}{\bibinfo{person}{Haibo He} {and} \bibinfo{person}{Edwardo~A Garcia}.} \bibinfo{year}{2009}\natexlab{}.
-\newblock \showarticletitle{Learning from imbalanced data}.
-\newblock \bibinfo{journal}{\emph{IEEE Transactions on Knowledge and Data Engineering}} \bibinfo{volume}{21}, \bibinfo{number}{9} (\bibinfo{year}{2009}), \bibinfo{pages}{1263--1284}.
+\bibitem[{Digital Diagnostics}(nd)]%
+        {digitaldiagnostics2024indications}
+\bibfield{author}{\bibinfo{person}{{Digital Diagnostics}}.} \bibinfo{year}{n.d.}\natexlab{}.
+\newblock \bibinfo{title}{Indications for use -- US (LumineticsCore)}.
 \newblock
+\urldef\tempurl%
+\url{https://www.digitaldiagnostics.com/products/eye-disease/indications-for-use-us/}
+\showURL{%
+\tempurl}
 
 
-\bibitem[L{\'o}pez-Rojas et~al\mbox{.}(2016)]%
-        {paysim2016emss}
-\bibfield{author}{\bibinfo{person}{Edgar~Alonso L{\'o}pez-Rojas}, \bibinfo{person}{Ali Elmir}, {and} \bibinfo{person}{Stefan Axelsson}.} \bibinfo{year}{2016}\natexlab{}.
-\newblock \bibinfo{title}{PaySim: A financial mobile money simulator for fraud detection}.
-\newblock \bibinfo{howpublished}{In Proceedings of the 28th European Modeling \& Simulation Symposium (EMSS)}.
+\bibitem[Nielsen(2020)]%
+        {nielsen2020usability}
+\bibfield{author}{\bibinfo{person}{Jakob Nielsen}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{10 Usability Heuristics for User Interface Design}.
+\newblock \bibinfo{howpublished}{Nielsen Norman Group}.
 \newblock
-
-
-\bibitem[Saito and Rehmsmeier(2015)]%
-        {saito2015precision}
-\bibfield{author}{\bibinfo{person}{Takaya Saito} {and} \bibinfo{person}{Marc Rehmsmeier}.} \bibinfo{year}{2015}\natexlab{}.
-\newblock \showarticletitle{The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets}.
-\newblock \bibinfo{journal}{\emph{PLOS ONE}} \bibinfo{volume}{10}, \bibinfo{number}{3} (\bibinfo{year}{2015}), \bibinfo{pages}{e0118432}.
+\urldef\tempurl%
+\url{https://www.nngroup.com/articles/ten-usability-heuristics/}
+\showURL{%
+\tempurl}
 \newblock
+\shownote{Retrieved October 5, 2025}.
+
+
+\bibitem[{U.S. Food and Drug Administration}(2018a)]%
+        {fda2018denovo_summary}
+\bibfield{author}{\bibinfo{person}{{U.S. Food and Drug Administration}}.} \bibinfo{year}{2018}\natexlab{a}.
+\newblock \bibinfo{title}{DE NOVO CLASSIFICATION REQUEST FOR IDX-DR [De Novo Summary, DEN180001]}.
+\newblock \bibinfo{howpublished}{U.S. Department of Health and Human Services}.
+\newblock
+\urldef\tempurl%
+\url{https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN180001.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[{U.S. Food and Drug Administration}(2018b)]%
+        {fda2018denovo}
+\bibfield{author}{\bibinfo{person}{{U.S. Food and Drug Administration}}.} \bibinfo{year}{2018}\natexlab{b}.
+\newblock \bibinfo{title}{Device classification under Section 513(f)(2)(De Novo)}.
+\newblock \bibinfo{howpublished}{U.S. Department of Health and Human Services}.
+\newblock
+\urldef\tempurl%
+\url{https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/denovo.cfm?ID=DEN180001}
+\showURL{%
+\tempurl}
+
+
+\bibitem[{U.S. Food and Drug Administration}(2025)]%
+        {fda2025aiml}
+\bibfield{author}{\bibinfo{person}{{U.S. Food and Drug Administration}}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{title}{Marketing submission recommendations for a predetermined change control plan for AI/ML-enabled device software functions}.
+\newblock
+\urldef\tempurl%
+\url{https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Wolf et~al\mbox{.}(2024)]%
+        {wolf2024autonomous}
+\bibfield{author}{\bibinfo{person}{R.~M. Wolf}, \bibinfo{person}{R. Channa}, \bibinfo{person}{T.~Y.~A. Liu}, \bibinfo{person}{M. Pensec}, \bibinfo{person}{J.~K. Han}, \bibinfo{person}{N. Amini}, \bibinfo{person}{D. Boudreault}, \bibinfo{person}{R. Varma}, \bibinfo{person}{A. Tufail}, \bibinfo{person}{A.~Y. Lee}, {and} \bibinfo{person}{D.~S. Wolf}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Autonomous artificial intelligence increases screening and follow-up for diabetic retinopathy in youth: The ACCESS randomized control trial}.
+\newblock \bibinfo{journal}{\emph{Nature Communications}} \bibinfo{volume}{15}, \bibinfo{number}{1} (\bibinfo{year}{2024}), \bibinfo{pages}{421}.
+\newblock
+\href{https://doi.org/10.1038/s41467-023-44676-z}{doi:\nolinkurl{10.1038/s41467-023-44676-z}}
 
 
 \end{thebibliography}
